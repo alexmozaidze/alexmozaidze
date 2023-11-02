@@ -1,7 +1,7 @@
-# Hello! 👋
+# About
 
-My name is Alexei, but everyone just calls me Alex. I'm a web and software developer that likes playng around with new programming languages. I enjoy simple things and appreciate good code.
+A programmer that craves to learn new exotic programming languages that change the way one thinks about programming.
 
-I use [GitLab](https://gitlab.com/alexmozaidze/) as my main profile, and [GitHub](https://github.com/alexmozaidze/) for mirroring.
-
-For more info check out my website: https://alexmozaidze.gitlab.io/
+# Profile
+[Git*Lab*](https://gitlab.com/alexmozaidze): Main profile. New projects are born here.  
+[Git*Hub*](https://github.com/alexmozaidze): Secondary profile. Contains PR repos, mirrors and quick-n-dirty forks.
